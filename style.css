@@ -1,0 +1,13 @@
+#t-form {
+   width: 50%;
+   margin: 2em auto;
+}
+
+#t-input,
+ul {
+   background-color: #81BEF7;
+}
+
+#t-input {
+   padding: 20px;
+}
